@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-black text-white p-10">
+  <div class="min-h-screen bg-black text-white p-4">
       <div class="flex justify-between items center">
         <h2 class="text-header">Skills</h2>
         <nuxt-link to="/">

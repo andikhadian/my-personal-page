@@ -3,9 +3,13 @@
 @tailwind utilities;
 
 .text-header {
-    @apply font-bold text-3xl md:text-5xl;
+    @apply font-bold text-4xl md:text-5xl;
 }
 
 .close-header {
     @apply w-10 h-10 md:w-16 md:h-16;
+}
+
+.paragraph {
+    @apply text-xl text-justify leading-loose;
 }
